@@ -1,2 +1,2 @@
 # Ken1s Lekstuga
-testar olika saker och spara kod snuttar som är najs
+testar olika saker, sparar kodsnuttar och antecknar från lektioner.
